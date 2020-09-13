@@ -11,3 +11,11 @@ __pycache__/
 
 # Local storage
 /data.json
+
+# C Compiled files
+*.o
+*.a
+*.so
+
+# Etc.
+*~

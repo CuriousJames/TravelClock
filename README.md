@@ -14,3 +14,7 @@ This is being developed as a hobby and is very much a work in progress, we sugge
 ## Install Instructions
 
 * pip install timezonefinder
+
+## Included externally developed libraries
+
+The output to the LED Display uses a library found on GitHub: https://github.com/hzeller/rpi-rgb-led-matrix
